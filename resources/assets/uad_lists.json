@@ -42055,5 +42055,13 @@
     "neededBy": [],
     "labels": [],
     "removal": "Recommended"
+  },
+  "com.herinteractive.codesandclues": {
+    "list": "Misc",
+    "description": "Coding game for kids that comes pre-installed on Tanoshi 2-in-1 tablets. Not needed.",
+    "dependencies": [],
+    "neededBy": [],
+    "labels": [],
+    "removal": "Recommended"
   }
 }
